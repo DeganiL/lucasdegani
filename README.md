@@ -1,6 +1,6 @@
 # Oi, meu nome Lucas Degani!
 
-Sigue meus perfis nas redes sociais:
+Siga meus perfis nas redes sociais:
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-degani/"><target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
@@ -17,3 +17,5 @@ Sigue meus perfis nas redes sociais:
 <div>
   <a href="https://twitter.com/LucasDegani_"><target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="blank"></a>
 </div>
+  
+✌
