@@ -3,5 +3,5 @@
 Segue meus perfils das redes sociais:
 
 <div>
-  <a href="http://www.youtube.com.br"
+  <a href="http://www.youtube.com.br"</a>
 </div>
