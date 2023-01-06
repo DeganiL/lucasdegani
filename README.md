@@ -3,7 +3,9 @@
 Sigue meus perfis nas redes sociais:
 
 <div>
-  <a href="https://www.linkedin.com/in/lucas-degani/">Linkedin2 - Trabalhos e experiência profissional</a>
+  <a href="https://www.linkedin.com/in/lucas-degani/">Linkedin</a>
+  Trabalhos e Experiências profissionais
+  <br>
 </div>
 
 <div>
