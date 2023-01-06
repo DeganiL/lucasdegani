@@ -1,4 +1,4 @@
-# Oi, meu nome Lucas Degani!
+# Oi, meu nome é Lucas Degani!
 
 Siga meus perfis nas redes sociais:
 
