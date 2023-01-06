@@ -1,9 +1,9 @@
-# Oi,meu nome Lucas Degani!
+# Oi, meu nome Lucas Degani!
 
 Sigue meus perfis nas redes sociais:
 
 <div>
-  <a href="https://www.linkedin.com/in/lucas-degani/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/lucas-degani/">Linkedin - Trabalhos e experiência profissional</a>
 </div>
 
 <div>
