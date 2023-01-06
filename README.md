@@ -1,7 +1,7 @@
 # HI, my name is Lucas Degani.
 
-Segue meus perfils das redes sociais:
+Sigue meus perfis nas redes sociais:
 
 <div>
-  <a href="http://www.youtube.com.br"></a>
+  <a href="http://www.youtube.com.br">Youtube</a>
 </div>
